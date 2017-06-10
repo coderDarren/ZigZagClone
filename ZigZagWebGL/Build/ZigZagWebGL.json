@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 67108864,
+"dataUrl": "ZigZagWebGL.data.unityweb",
+"asmCodeUrl": "ZigZagWebGL.asm.code.unityweb",
+"asmMemoryUrl": "ZigZagWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "ZigZagWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

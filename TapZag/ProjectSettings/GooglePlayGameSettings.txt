@@ -1,0 +1,9 @@
+lastUpgrade=00938a
+proj.pluginVersion=0.9.38a
+proj.AppId=964479671479
+and.BundleId=com.rc.tapZag
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e964479671479%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.rc.tapZag%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_starter_tapper%22%3eCgkIt7nf-4gcEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_novice_tapper%22%3eCgkIt7nf-4gcEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_apprentice_tapper%22%3eCgkIt7nf-4gcEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_experienced_tapper%22%3eCgkIt7nf-4gcEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_skilled_tapper%22%3eCgkIt7nf-4gcEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_respected_tapper%22%3eCgkIt7nf-4gcEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_feared_tapper%22%3eCgkIt7nf-4gcEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22%3eCgkIt7nf-4gcEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_high_score%22%3eCgkIt7nf-4gcEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_attempts%22%3eCgkIt7nf-4gcEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
